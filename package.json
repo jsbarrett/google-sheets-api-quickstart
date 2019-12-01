@@ -1,0 +1,25 @@
+{
+  "name": "google-sheets-api-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbarrett/google-sheets-api-quickstart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsbarrett/google-sheets-api-quickstart/issues"
+  },
+  "homepage": "https://github.com/jsbarrett/google-sheets-api-quickstart#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "googleapis": "^45.0.0"
+  }
+}
