@@ -3,6 +3,9 @@
 ## Get Started
 - Run `npm install` to get all dependencies
 - Be sure to have your `credentials.json` file in the root of the project
+  - You can retrieve your credentials from:
+    https://console.developers.google.com/apis/api/sheets.googleapis.com/credentials
+  - If you don't already have an Oauth credential setup then you will need to create one and download into this project with previously mentioned filename.
 - Create `.env` file with four environment variables
   - RANGE
     - the sheet range to get data
