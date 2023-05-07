@@ -20,6 +20,6 @@
   "homepage": "https://github.com/jsbarrett/google-sheets-api-quickstart#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "googleapis": "^45.0.0"
+    "googleapis": "^118.0.0"
   }
 }
